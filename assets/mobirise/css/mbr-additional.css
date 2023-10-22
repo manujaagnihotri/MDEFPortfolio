@@ -4380,6 +4380,210 @@ a {
 .cid-tSGG3Nx7Tr .item-subtitle {
   text-align: left;
 }
+.cid-tT2UpUBo2m {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tT2UpUBo2m img,
+.cid-tT2UpUBo2m .item-img {
+  width: 100%;
+}
+.cid-tT2UpUBo2m .item:focus,
+.cid-tT2UpUBo2m span:focus {
+  outline: none;
+}
+.cid-tT2UpUBo2m .item-wrapper {
+  position: relative;
+}
+.cid-tT2UpUBo2m .slide-content {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  overflow: hidden;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-tT2UpUBo2m .slide-content .item-content {
+    padding: 2rem 2rem 0;
+  }
+  .cid-tT2UpUBo2m .slide-content .item-footer {
+    padding: 0 2rem 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tT2UpUBo2m .slide-content .item-content {
+    padding: 1rem 1rem 0;
+  }
+  .cid-tT2UpUBo2m .slide-content .item-footer {
+    padding: 0 1rem 1rem;
+  }
+}
+.cid-tT2UpUBo2m .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-tT2UpUBo2m .mbr-section-title {
+  color: #232323;
+}
+.cid-tT2UpUBo2m .mbr-text,
+.cid-tT2UpUBo2m .mbr-section-btn {
+  text-align: left;
+}
+.cid-tT2UpUBo2m .item-title {
+  text-align: left;
+}
+.cid-tT2UpUBo2m .item-subtitle {
+  text-align: left;
+}
+.cid-tT2UpUBo2m .embla__slide {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  min-width: 410px;
+  max-width: 410px;
+}
+@media (max-width: 768px) {
+  .cid-tT2UpUBo2m .embla__slide {
+    min-width: 70%;
+    max-width: initial;
+    margin-left: 1rem !important;
+    margin-right: 1rem !important;
+  }
+}
+.cid-tT2UpUBo2m .embla__button--next,
+.cid-tT2UpUBo2m .embla__button--prev {
+  display: flex;
+}
+.cid-tT2UpUBo2m .embla__button {
+  top: 50%;
+  width: 60px;
+  height: 60px;
+  margin-top: -1.5rem;
+  font-size: 22px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  transition: all 0.3s;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 768px) {
+  .cid-tT2UpUBo2m .embla__button {
+    display: none;
+  }
+}
+.cid-tT2UpUBo2m .embla__button:disabled {
+  cursor: default;
+  display: none;
+}
+.cid-tT2UpUBo2m .embla__button:hover {
+  background: #000;
+  color: rgba(255, 255, 255, 0.5);
+}
+.cid-tT2UpUBo2m .embla__button.embla__button--prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-tT2UpUBo2m .embla__button.embla__button--next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+@media (max-width: 767px) {
+  .cid-tT2UpUBo2m .embla__button {
+    top: auto;
+  }
+}
+.cid-tT2UpUBo2m .embla {
+  position: relative;
+  width: 100%;
+}
+.cid-tT2UpUBo2m .embla__viewport {
+  overflow: hidden;
+  width: 100%;
+}
+.cid-tT2UpUBo2m .embla__viewport.is-draggable {
+  cursor: grab;
+}
+.cid-tT2UpUBo2m .embla__viewport.is-dragging {
+  cursor: grabbing;
+}
+.cid-tT2UpUBo2m .embla__container {
+  display: flex;
+  user-select: none;
+  -webkit-touch-callout: none;
+  -khtml-user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.cid-tT2YgldFLX {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/background3.jpg");
+}
+.cid-tT2YgldFLX .mbr-overlay {
+  background: #fafafa;
+  opacity: 0.6;
+}
+.cid-tT2YgldFLX img,
+.cid-tT2YgldFLX .item-img {
+  width: 100%;
+  height: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+.cid-tT2YgldFLX .item:focus,
+.cid-tT2YgldFLX span:focus {
+  outline: none;
+}
+.cid-tT2YgldFLX .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-tT2YgldFLX .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #ffffff;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-tT2YgldFLX .item-wrapper .item-content {
+    padding: 2rem 2rem 0;
+  }
+  .cid-tT2YgldFLX .item-wrapper .item-footer {
+    padding: 0 2rem 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tT2YgldFLX .item-wrapper .item-content {
+    padding: 1rem 1rem 0;
+  }
+  .cid-tT2YgldFLX .item-wrapper .item-footer {
+    padding: 0 1rem 1rem;
+  }
+}
+.cid-tT2YgldFLX .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-tT2YgldFLX .mbr-section-title {
+  color: #232323;
+}
+.cid-tT2YgldFLX .mbr-text,
+.cid-tT2YgldFLX .mbr-section-btn {
+  text-align: left;
+}
+.cid-tT2YgldFLX .item-title {
+  text-align: left;
+}
+.cid-tT2YgldFLX .item-subtitle {
+  text-align: left;
+  color: #bbbbbb;
+}
 .cid-tSGFaAmjYP {
   z-index: 1000;
   width: 100%;

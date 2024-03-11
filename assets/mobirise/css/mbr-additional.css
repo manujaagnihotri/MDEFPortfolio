@@ -14030,6 +14030,34 @@ a {
 .cid-u6IiWD9Igu img {
   width: 100%;
 }
+.cid-u6Imxga2PH {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-u6Imxga2PH .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-u6Imxga2PH .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-u6Imxga2PH .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-u6Imxga2PH .row {
+  flex-direction: row-reverse;
+}
+.cid-u6Imxga2PH img {
+  width: 100%;
+}
 .cid-u2NhnwNpmg {
   padding-top: 0rem;
   padding-bottom: 0rem;

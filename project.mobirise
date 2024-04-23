@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page46.html",
+    "currentPage": "page47.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -66,7 +66,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 602,
+    "uniqCompNum": 603,
     "versionPublish": "5.9.6",
     "screenshot": "screenshot.png",
     "publishChangesOnly": true
@@ -32453,6 +32453,23 @@
           "_styles": {
             "padding-top": "(@paddingTop * 1rem)",
             "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\">\n                    Enter your subtitle here\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\"><iframe width=\"768\" height=\"432\" src=\"https://miro.com/app/embed/uXjVKQ7yx7E=/?pres=1&frameId=3458764586671907155&embedId=147934581364\" frameborder=\"0\" scrolling=\"no\" allow=\"fullscreen; clipboard-read; clipboard-write\" allowfullscreen></iframe></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "uaLvm3R7c4",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content5-gq"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
             "background-color": "@bgColor",
             ".mbr-section-subtitle": {
               "color": "#410e76",
@@ -32466,11 +32483,11 @@
           "_sourceTheme": "mobirise5",
           "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"12\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\"><b>\n                    Reflection</b></h4>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">In our recent session on design ethics, I found myself deeply engrossed in contemplating the profound importance of ethical considerations in the realm of technology. The discussion opened my eyes to the intricate interplay between human values, technological advancements, and the ethical responsibilities inherent in design processes.\n<br>\n<br>At the heart of our conversation lay the recognition that technology is not neutral; it carries with it the potential to shape society in myriad ways, both positive and negative. As designers, we bear a weighty responsibility to ensure that our creations align with ethical principles and contribute positively to the well-being of individuals and communities.\n<br>\n<br>Throughout our discourse, we delved into various types of technological ethics, each presenting its own set of challenges and complexities. From privacy and data protection to algorithmic bias and environmental sustainability, the spectrum of ethical considerations seemed vast and multifaceted. Yet, amidst this complexity, one thing remained clear: the imperative to approach design with a conscientious regard for its ethical implications.\n<br>\n<br>One perspective that particularly resonated with me was that of Don Ihde and his seminal work on technological ethics. Ihde's exploration of the ways in which technologies mediate our perceptions and experiences offers a fascinating lens through which to examine ethical dilemmas in design. His insights underscore the need to consider not only the intended functionalities of our creations but also their broader societal impacts and implications for human flourishing.\n<br>\n<br>What struck me as particularly intriguing about Ihde's approach is his emphasis on phenomenological inquiry, which encourages us to attend to the lived experiences of individuals and communities affected by technology. By centering our ethical reflections on the human dimension of technological interactions, we gain a deeper appreciation for the ethical stakes involved and the imperative to design with empathy and foresight.\n<br>\n<br>In conclusion, our session on design ethics served as a poignant reminder of the profound responsibility we bear as designers to navigate the ethical complexities of our craft. By engaging with perspectives such as Don Ihde's and fostering a robust ethical sensibility, we can strive to create technologies that not only function effectively but also embody our highest aspirations for a more just, equitable, and humane world.</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "uaL8Bw1XPN",
+          "_anchor": "content5-gp",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content5-gp"
+          "_params": {}
         }
       ]
     },
